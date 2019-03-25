@@ -17,3 +17,12 @@
 
 
 
+> 3、
+  
+    
+        /**
+         * 重置应用appSecret
+         * @param appSecretRequest
+         * @return
+         */
+        RpcResult<String> resetAppSecret(ResetAppSecretRequest appSecretRequest);
